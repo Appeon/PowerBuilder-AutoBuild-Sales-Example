@@ -1,0 +1,1 @@
+RMDIR /s /q "Build"
