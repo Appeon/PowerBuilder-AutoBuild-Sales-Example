@@ -1,7 +1,9 @@
 # PowerBuilder-AutoBuild-Sales-Example
 
 This GitHub repository contains the example files of the PBAutoBuild210 feature.
-This example demonstrates how to use PBAutoBuild201.exe to download source code from the source code control sever, merge it into PBL, and auto build and deploy the traditional C/S project, the PowerClient project, and the PowerServer project. 
+This example demonstrates how to use PBAutoBuild210.exe to download source code from the source code control sever, merge it into PBL, and auto build and deploy the traditional C/S project, the PowerClient project, and the PowerServer project based on the configurations in the JSON file.
+Before you use this Example, it’s suggested that you learn the details about using PBAutoBuild210 through the site below:
+https://docs.appeon.com/pb2021/whats_new/automated_CI_CD_for_projects.html  
 
 ### Sample Project Structure
 
