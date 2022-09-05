@@ -17,7 +17,7 @@ The project is structured as follows.
 	|—— Command_DeleteFolder.bat		Delete the downloaded folder
 	|—— Command_StartLocalWebAPI.bat	Compile and run PowerServer Web API
 	|—— pb_salesdemo.json			Auto build and deploy the JSON file required by the traditional C/S project
-  |—— pc_salesdemo.json			Auto build and deploy the JSON file required by the PowerClient project
+  	|—— pc_salesdemo.json			Auto build and deploy the JSON file required by the PowerClient project
 	|—— ps_salesdemo.json			Auto build and deploy the JSON file required by the PowerServer project
 ```
 
